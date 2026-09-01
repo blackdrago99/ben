@@ -1,0 +1,2 @@
+[functions.code-search]
+verify_jwt = false
